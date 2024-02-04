@@ -1,7 +1,7 @@
 local httpService = game:GetService('HttpService')
 
 local SaveManager = {} do
-    SaveManager.Folder = 'xylo Hub'
+    SaveManager.Folder = 'Xylo Hub'
     SaveManager.Ignore = {}
     SaveManager.Parser = {
         Toggle = {
